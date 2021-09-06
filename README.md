@@ -1,1 +1,1 @@
-Sample website activity I created for my CHS Class back in Grade 9.
+HTML and CSS website activity I created for my CHS Class back in Grade 9.
