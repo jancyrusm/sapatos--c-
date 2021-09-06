@@ -1,1 +1,1 @@
-HTML and CSS website activity for CHS Class back in Grade 9.
+HTML and CSS website activity from CHS Class back in Grade 9 (2017).
